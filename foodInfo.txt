@@ -1,0 +1,14 @@
+FastFood
+Taco
+1.19
+12
+Large
+Fritos Burritos
+False
+FastFood
+MilkShake
+2.50
+1
+Small
+Black and White
+True
